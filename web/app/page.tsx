@@ -12,7 +12,7 @@ export default function Home() {
       <nav className="flex gap-8 mb-20 text-neutral-700">
         <a href="#">Writing</a>
         <a href="#">Archive</a>
-        <a href="#">About</a>
+        <a href="/about">About</a>
       </nav>
 
       <section>
